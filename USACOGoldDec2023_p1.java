@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class FlightRoutes {
+public class USACOGoldDec2023_p1 {
 	
 	static int N;
 	static int[][] dp;
