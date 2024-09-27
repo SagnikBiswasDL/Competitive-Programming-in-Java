@@ -1,6 +1,6 @@
 # Competitive Programming in Java
 
-This repository contains a collection of competitive programming solutions implemented in Java. It includes solutions to problems from popular coding platforms such as Codeforces, AtCoder, and USACO. The problems span various topics like:
+This repository contains a growing collection of competitive programming solutions implemented in Java. It covers a wide range of topics and problem-solving techniques, designed to help tackle various algorithmic challenges efficiently:
 
 - **Dynamic Programming**
 - **Graph Theory**
@@ -9,18 +9,12 @@ This repository contains a collection of competitive programming solutions imple
 - **Mathematics**
 - **Data Structures**
 
-## Structure
+## Platform Coverage
 
-Each folder corresponds to a problem-solving platform or competition. Inside, you'll find individual problem solutions with a description of the problem and the approach used.
-
-### Platforms Included
-
-- **Codeforces**: Solutions for a variety of contests and problem levels, including Div 1 and Div 2 contests.
-- **USACO**: Solutions from various levels, including Gold Division.
-- **AtCoder**: Solutions from regular and beginner contests, covering a broad range of algorithmic challenges.
+The solutions in this repository span multiple competitive programming platforms, including well-known sites such as Codeforces, CodeChef, USACO, and many more.
 
 ## How to Use
 
-1. Clone the repository: 
+1. Clone the repository:
    ```bash
    git clone https://github.com/SagnikBiswasDL/Competitive-Programming.git
