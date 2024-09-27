@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class div2_975_a {
+public class Codeforces_Div2_rd975_a {
 	
 	static BufferedReader br;
 	static StringTokenizer st;
